@@ -1,4 +1,5 @@
-Madhav Store Ecommerce Sales Dashboard
+MadhavStore-Ecommerce-Sales-Dashboard-PowerBI
+
 Welcome to the Madhav Store Ecommerce Sales Dashboard repository! This Power BI project has been crafted to empower the owner of Madhav Store in tracking and analyzing their online sales performance across various regions in India.
 
 Project Objective:
